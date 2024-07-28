@@ -372,3 +372,17 @@ $$  \text{TD/EBITDA} = \frac{\text{Загальні боргові зобов'я
 
 
 У цьому випадку коефіцієнт TD/EBITDA дорівнює 3, що означає, що загальний борг компанії в 3 рази перевищує її EBITDA.
+
+# Формула розрахунку Робочого капіталу
+
+$$ \text NWC = (Cash+STI+AR+Inventory)-(AP+Advances Received)$$
+
+$$ \text NWC = (AR+Inventory)-(AP+Advances Received)$$
+
+де
+* Cash - Грошові засоби
+* STI - Короткочасні вкладення
+* AR - Дебіторська заборгованість
+* Inventory - Запаси
+* AP - Кредиторська заборгованість
+* Advances resived - Аванси
