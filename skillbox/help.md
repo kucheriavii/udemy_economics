@@ -9,5 +9,3 @@ using cd
 
 ### start jupyter notebook
 ``` jupyter notebook ```
-
-
