@@ -10,3 +10,5 @@ using cd
 ### start jupyter notebook
 ``` jupyter notebook ```
 
+```10/09/2024```
+
