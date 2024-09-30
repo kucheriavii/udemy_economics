@@ -1,3 +1,4 @@
 - 24. Macros Are a Great Timesaver! Here's Why. [done]
 - 25. How to Use the Same Macro On Multiple Workbooks [done]
 - 27. Be even quicker: F5 + Enter
+- 33. Introduction to Custom Formatting in Exce
