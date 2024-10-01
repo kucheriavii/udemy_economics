@@ -3,3 +3,4 @@
 - 27. Be even quicker: F5 + Enter
 - 33. Introduction to Custom Formatting in Excel
 -----
+- 36. Using Custom-sort to Sort Multiple Columns Within a Table
