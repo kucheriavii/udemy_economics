@@ -12,5 +12,3 @@ except Exception as e:
 
 import urllib.request
 urllib.request.urlretrieve("blob:https://ua.udemy.com/b09f66ca-fca5-4ce6-b0a5-5f95445bd94d", 'video_name.mp4') 
-
-
