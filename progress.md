@@ -6,3 +6,4 @@
 - 36. Using Custom-sort to Sort Multiple Columns Within a Table
 -----
 - 68. Date Functions in Excel
+- 73. Creating a Code: The Best Way to Organize Your Data and Work Efficiently with It
