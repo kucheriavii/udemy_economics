@@ -9,4 +9,5 @@
 - 73. Creating a Code: The Best Way to Organize Your Data and Work Efficiently with It
 - 74. Learn How to Create a Database
 ------
+- 75. Using Lookup Functions (VLOOKUP) to Fill the Database Sheet
 
