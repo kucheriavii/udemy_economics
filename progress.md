@@ -13,3 +13,4 @@
 - 77. FAQ: Why Net income should be 0?
 - 78. Using INDEX & MATCH as a Substitute for VLOOKUP
 - 79. XLOOKUP as a Substitute for VLOOKUP and INDEX&MATCH
+- 80. The Mapping Exercise
