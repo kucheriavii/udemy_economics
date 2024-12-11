@@ -17,6 +17,4 @@
 - 81. Mapping the Rows in the Database Sheet
 - 83. A Practical Example of Professional Formatting in Excel
 - 87. Practical Exercise - SUMIFS
-
-
-
+- 99. Bridge Chart
