@@ -18,5 +18,6 @@
 - 83. A Practical Example of Professional Formatting in Excel
 - 87. Practical Exercise - SUMIFS
 - 99. Bridge Chart
-- 107. COURSE CHALLENGE - Part 1
+- 107. COURSE CHALLENGE - Part 1 //FINISHED
+
 
