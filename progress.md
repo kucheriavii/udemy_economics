@@ -19,3 +19,4 @@
 - 87. Practical Exercise - SUMIFS
 - 99. Bridge Chart
 - 107. COURSE CHALLENGE - Part 1
+
